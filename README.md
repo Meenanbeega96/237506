@@ -1,5 +1,6 @@
 # 237506
 My first repository on GitHub
+
 public class ExerciseTwoThread extends Thread {
 
 public static void main(String[] args) {
